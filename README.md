@@ -1,2 +1,2 @@
-# tecnotuch
-site de aprendizagem HTML e CSS
+# tecnotuchtuch
+Estudo de JavaScript.
